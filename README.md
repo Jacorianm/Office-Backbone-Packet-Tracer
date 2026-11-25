@@ -10,3 +10,5 @@ What it does
 
 Devices and addressing
 Router 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2eca4781-19e9-4f95-b21b-2a71f53aa439" />
+
