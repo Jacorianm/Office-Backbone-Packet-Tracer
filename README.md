@@ -8,8 +8,16 @@ What it does
 - 802.1Q trunk between the switches
 - DHCP served from the router to both VLANs
 
-Devices and addressing
-Router 
+Devices
+- Router0: gateway for both VLANs
+- Switch1 and Switch0: access switches, trunked to each other
+- Switch3: access switch for the server and delivery PCs
+- Server0:
+- 4 PCs split across the Account and Delivery departments
+
+VLANs
+- VLAN __: Account Department
+- VLAN __: Delivery
 <img width="1366" height="701" alt="image (1)" src="https://github.com/user-attachments/assets/37e83733-44c4-4213-b299-b12c76473c4d" />
 
 
